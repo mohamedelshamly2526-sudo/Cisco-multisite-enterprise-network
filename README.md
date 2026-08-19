@@ -39,4 +39,4 @@ PC1> ping 10.0.0.6
 > **GNS3 Software Note:** Trunk ports are statically configured (`switchport mode trunk`). Dynamic Trunking Protocol (DTP) remains active as `switchport nonegotiate` is omitted from the Cisco IOU/IOL virtual image parser.
 
 ---
-*Created by [Your Name] — Cisco Network Engineering Portfolio Project*
+*Created by Mohamed Elshamly — Cisco Network Engineering Portfolio Project*
